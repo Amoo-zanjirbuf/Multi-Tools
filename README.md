@@ -14,4 +14,6 @@
 # I Don't Want To Open An exe File
 You Can Check The Source Code And Compile It Yourself 
 # Last Words
+Login Feature Isn't Done Yet You Can Type Anything For UserName And Password
+Oh Also There Is A Little Easter Egg In The Code 
 If You Need Help With Anything Just Ask :)
