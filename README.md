@@ -12,6 +12,6 @@
 1. Open Installer.exe or Installer.py
 2. Enjoy :)
 # I Don't Want To Open An exe File
-You Can Check The Source Code And Compile It Yourself For The Tools I Create
+You Can Check The Source Code And Compile It Yourself 
 # Last Words
 If You Need Help With Anything Just Ask :)
