@@ -161,9 +161,9 @@ while True:
             print(f"{plus} Opened qubo.jar BY replydev...")
 
         elif command == "3" and access == True:
-            os.startfile("PySilon-malware-main\\PySilon.bat")
-            print(f"{plus} Opened PySilon.bat BY mategol...")
-
+            # os.startfile("PySilon-malware-main\\PySilon.bat")
+            # print(f"{plus} Opened PySilon.bat BY mategol...")
+            print(f"{err} This Feature Is Removed Temporarily...")
         elif command == "4" and access == True:
             os.startfile("recaf.jar")
             print(f"{plus} Opened recaf.jar BY Col-E...")
