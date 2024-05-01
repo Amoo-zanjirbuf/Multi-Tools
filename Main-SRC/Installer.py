@@ -12,8 +12,6 @@ os.system("python -m pip install requests")
 
 os.system("python -m pip install datetime")
 
-os.system("python -m pip install pwinput")
-
 print("Opening...")
 
 os.startfile("MultiTools.exe")
